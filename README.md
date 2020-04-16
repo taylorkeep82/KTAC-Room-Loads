@@ -1,2 +1,2 @@
-# KTAC-Room-Loads
+# Room-Loads
 Calculate room loads
